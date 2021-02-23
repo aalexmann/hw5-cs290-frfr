@@ -1,0 +1,9 @@
+li {
+    font-size: 2rem;
+    width: 300px;
+    margin: 4px;
+    padding: 4px;
+    list-style: none
+    }
+    .dessert {background-color: red}
+    .flavor {background-color: yellow}
